@@ -68,7 +68,8 @@ Generate invitation
 ![Screenshot (117)](https://github.com/user-attachments/assets/48a43a6c-9f21-4bd0-b026-b09bacc543ff)
 
 All Invitations
-![Screenshot (117)](https://github.com/user-attachments/assets/4396fb05-f19c-4006-82d3-0cafc19d31c0)
+![Screenshot (118)](https://github.com/user-attachments/assets/1934d544-0807-4426-abb7-362ce86befcb)
+
 
 
 
